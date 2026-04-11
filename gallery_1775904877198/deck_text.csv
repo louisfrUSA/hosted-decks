@@ -1,0 +1,9 @@
+ID;question;answer;rating
+Q1;Quelle est la définition de la quantité de matière \( n \) ?;La quantité de matière \( n \) (en mol) est le nombre d'entités élémentaires (atomes, molécules, ions...) contenues dans un échantillon. \( n = \frac{m}{M} \) où \( m \) est la masse (g) et \( M \) la masse molaire (g·mol⁻¹).;E
+Q2;Quelle est la formule reliant la masse \( m \), la masse molaire \( M \) et la quantité de matière \( n \) ?;\( n = \frac{m}{M} \). \( M \) s'exprime en g·mol⁻¹, \( m \) en g et \( n \) en mol.;E
+Q3;Quelle est la définition de la concentration molaire \( c \) d'une solution ?;La concentration molaire \( c \) (en mol·L⁻¹) est le rapport de la quantité de matière de soluté \( n \) sur le volume de solution \( V \). \( c = \frac{n}{V} \).;E
+Q4;Quelle est la formule de la concentration molaire \( c \) ?;\( c = \frac{n}{V} \) où \( n \) est en mol et \( V \) en L. Unité : mol·L⁻¹.;E
+Q5;Quelle est l'unité de la concentration molaire ?;mol·L⁻¹ (mole par litre).;E
+Q6;Quelle est la relation entre quantité de matière et volume molaire pour un gaz dans les CNTP ?;Pour un gaz parfait dans les CNTP, \( V_m = 22,4 \) L·mol⁻¹ donc \( V = n \times 22,4 \).;E
+Q7;Quelle est la définition d'une dilution ?;Une dilution consiste à ajouter du solvant à une solution pour diminuer sa concentration tout en conservant la quantité de matière de soluté.;D
+Q8;Quelle est la formule de la dilution (conservation de quantité de matière) ?;\( c_1 V_1 = c_2 V_2 \) où 1 désigne la solution mère et 2 la solution diluée.;D
